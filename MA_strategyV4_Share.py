@@ -17,7 +17,7 @@ import pandas as pd
 class MAStrategyV4_S(CtaTemplate):
     """"""
 
-    author = "曾嘉俊"
+    author = "BiliBiliJohn"
 
     ma_window = 10
     fsign_up=1.0#%百分比
