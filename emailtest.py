@@ -4,11 +4,11 @@ from email.mime.text import MIMEText
  
 # 第三方 SMTP 服务
 mail_host = "smtp.163.com"      # SMTP服务器
-mail_user = "BiliBili_John@163.com"                  # 用户名
-mail_pass = "BHQQQIEYGJJXZHVQ"               # 授权密码，非登录密码
+mail_user = "*********@163.com"                  # 用户名
+mail_pass = "*********"               # 授权密码，非登录密码
  
-sender = 'BiliBili_John@163.com'    # 发件人邮箱(最好写全, 不然会失败)
-receivers = receivers = ['13jjzeng@alumni.stu.edu.cn','466196764@qq.com','1161287997@qq.com','727430469@qq.com','726466973@qq.com',"vip4713@163.com"]  # 接收邮件，可设置为你的QQ邮箱或者其他邮箱
+sender = '*********@163.com'    # 发件人邮箱(最好写全, 不然会失败)
+receivers = receivers = ['11111111@qq.com','22222222@qq.com']  # 接收邮件，可设置为你的QQ邮箱或者其他邮箱
 
 title = 'Stock trading recommend'  # 邮件主题
 
