@@ -1,0 +1,2 @@
+# RecomStockSysByVNPY
+通过tushare下载行情更新至数据库后作全行情回测，筛选出下单的股票进行邮件推荐
